@@ -1,4 +1,4 @@
-# Machine Learning Capstone Project
+# Credit Risk Prediction
 
 ## Overview
 This project is focused on building a machine learning model for credit risk prediction. The project involves extensive data analysis, feature engineering, and model deployment. It provides a structured approach to processing large datasets, training multiple models, and deploying the best performing one.
